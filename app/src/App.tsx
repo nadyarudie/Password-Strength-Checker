@@ -1,5 +1,3 @@
-// src/App.tsx
-
 import React, { useState } from 'react';
 import Background from './components/Background';
 import WelcomeScreen from './components/WelcomeScreen';
